@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+##### learning how to learn by learning to code 😄
+
 
 Here are some ideas to get you started:
 
