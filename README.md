@@ -2,8 +2,8 @@
 
 <!--- ##### learning how to learn by learning to code 😄 -->
 
-🔭 I’m currently working on learning how to learn by learning to code 😄
-🌱 I’m currently learning Ruby and Javascript
+- 🔭 I’m currently working on learning how to learn by learning to code 😄
+- 🌱 I’m currently learning Ruby and Javascript
 
 <!---
 
